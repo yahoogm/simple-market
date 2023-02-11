@@ -1,6 +1,8 @@
 node_modules
+dist
 public
 gitignore
 tsconfig.json
 tsconfig.node.json
 vite.config.ts
+src/vite-env.d.ts
