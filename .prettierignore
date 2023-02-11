@@ -1,0 +1,12 @@
+node_modules
+dist
+public
+eslintignore
+eslintrc.json
+gitignore
+prettierrc
+package-lock.json
+package-lock
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
