@@ -11,6 +11,5 @@
     "project": ["**/tsconfig.json"]
   },
   "plugins": ["react", "@typescript-eslint"],
-  "ignorePatterns": ["**/node_modules/*", "**/public/*", "**/dist/*"],
   "rules": {}
 }
