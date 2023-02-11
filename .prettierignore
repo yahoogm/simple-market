@@ -10,3 +10,5 @@ package-lock
 tsconfig.json
 tsconfig.node.json
 vite.config.ts
+postcss.config.cjs
+tailwind.config.cjs
